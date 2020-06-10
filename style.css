@@ -1,0 +1,47 @@
+.main{
+    background-color: #eaf7d3;
+    font-family: 'Open Sans', sans-serif;
+    color: #1b6d85;
+    border-radius: 5px;
+
+
+}
+section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+
+
+}
+#tribute-info ul li {
+text-align: left;
+
+}
+#title, .title{
+    text-align: center;
+    padding: 6px 5px 0px 5px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+
+}
+img{
+    border: 2px solid #122b40;
+    border-radius: 10px;
+    height: auto;
+    max-width: 100%;
+}
+/*.responsive{
+ width: 100%;
+    height: auto;
+    }
+    */
+h2{
+    padding-bottom: 20px;
+}
+
+#img-caption{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+}
